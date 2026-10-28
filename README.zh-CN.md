@@ -6,7 +6,7 @@
 
 在线使用：**https://lab.tongjiang.app**
 
-目前共 64 门。每门课都是**一个独立的 HTML 文件**，约 1 MB：双击就能打开，断网、投影、电子白板都能用。每门课是一个 3D 世界，配常驻中控台、主线问题和步骤条，老师按「下一步」就能从头讲到尾。
+目前共 54 门。每门课都是**一个独立的 HTML 文件**，约 1 MB：双击就能打开，断网、投影、电子白板都能用。每门课是一个 3D 世界，配常驻中控台、主线问题和步骤条，老师按「下一步」就能从头讲到尾。
 
 内容依据中国普通高中课程标准与人教版（2019）教材编写。课件界面目前是中文，其他语言在计划中。
 
@@ -19,7 +19,7 @@
 
 ## 课程
 
-### 物理（12 门）
+### 物理（10 门）
 
 | 课程 | 教材位置（人教版 2019） | 步数 | 打开 | 源文件 |
 |---|---|---|---|---|
@@ -33,10 +33,8 @@
 | [测电源电动势和内阻](https://lab.tongjiang.app/c/emf-step/) | 必修第三册 · 第十二章 电能 能量守恒定律 · 第三节 实验：电池电动势和内阻的测量 | 9 | [▶ 在线上课](https://lab.tongjiang.app/emf-step) | [HTML](courses/emf-step.html) |
 | [电流的磁场](https://lab.tongjiang.app/c/current-field-step/) | 必修第三册 · 第十三章 电磁感应与电磁波初步 · 第一节 磁场 磁感线 | 9 | [▶ 在线上课](https://lab.tongjiang.app/current-field-step) | [HTML](courses/current-field-step.html) |
 | [布朗运动与扩散](https://lab.tongjiang.app/c/brownian-step/) | 选择性必修第三册 · 第一章 分子动理论 · 第一节 分子动理论的基本内容 | 9 | [▶ 在线上课](https://lab.tongjiang.app/brownian-step) | [HTML](courses/brownian-step.html) |
-| [α 粒子散射](https://lab.tongjiang.app/c/alpha-scatter-step/) | 选择性必修第三册 · 第四章 原子结构和波粒二象性 · 第三节 原子的核式结构模型 · α 粒子散射实验 | 9 | [▶ 在线上课](https://lab.tongjiang.app/alpha-scatter-step) | [HTML](courses/alpha-scatter-step.html) |
-| [电磁感应与楞次定律](https://lab.tongjiang.app/c/induction-step/) | 必修第三册 · 第十三章 电磁感应与电磁波初步 · 第三节 电磁感应现象及应用 | 9 | [▶ 在线上课](https://lab.tongjiang.app/induction-step) | [HTML](courses/induction-step.html) |
 
-### 化学（27 门）
+### 化学（25 门）
 
 | 课程 | 教材位置（人教版 2019） | 步数 | 打开 | 源文件 |
 |---|---|---|---|---|
@@ -65,10 +63,8 @@
 | [吸氧腐蚀与暖贴的设计](https://lab.tongjiang.app/c/corrosion-step/) | 选择性必修1 化学反应原理 · 第四章 化学反应与电能 · 第三节 金属的腐蚀与防护 · 研究与实践：暖贴的设计与制作 | 9 | [▶ 在线上课](https://lab.tongjiang.app/corrosion-step) | [HTML](courses/corrosion-step.html) |
 | [氯碱工业](https://lab.tongjiang.app/c/chlor-alkali-step/) | 选择性必修1 化学反应原理 · 第四章 化学反应与电能 · 第二节 电解池 · 电解饱和食盐水 | 8 | [▶ 在线上课](https://lab.tongjiang.app/chlor-alkali-step) | [HTML](courses/chlor-alkali-step.html) |
 | [侯氏制碱](https://lab.tongjiang.app/c/hou-soda-step/) | 必修第一册 · 第二章 海水中的重要元素——钠和氯 · 第一节 钠及其化合物 · 情境素材：侯氏制碱法 | 8 | [▶ 在线上课](https://lab.tongjiang.app/hou-soda-step) | [HTML](courses/hou-soda-step.html) |
-| [电镀：给铁片镀一层铜](https://lab.tongjiang.app/c/electroplate-step/) | 选择性必修1 化学反应原理 · 第四章 化学反应与电能 · 实验活动4 简单的电镀实验 | 9 | [▶ 在线上课](https://lab.tongjiang.app/electroplate-step) | [HTML](courses/electroplate-step.html) |
-| [燃料电池](https://lab.tongjiang.app/c/fuel-cell-step/) | 选择性必修1 化学反应原理 · 第四章 化学反应与电能 · 第一节 原电池 · 燃料电池 · 实验活动5 制作简单的燃料电池 | 9 | [▶ 在线上课](https://lab.tongjiang.app/fuel-cell-step) | [HTML](courses/fuel-cell-step.html) |
 
-### 生物（9 门）
+### 生物（5 门）
 
 | 课程 | 教材位置（人教版 2019） | 步数 | 打开 | 源文件 |
 |---|---|---|---|---|
@@ -77,12 +73,8 @@
 | [神经冲动的产生和传导](https://lab.tongjiang.app/c/impulse-step/) | 选择性必修1 稳态与调节 · 第2章 神经调节 · 第3节 神经冲动的产生和传导 | 9 | [▶ 在线上课](https://lab.tongjiang.app/impulse-step) | [HTML](courses/impulse-step.html) |
 | [观察根尖分生区组织细胞的有丝分裂](https://lab.tongjiang.app/c/mitosis-step/) | 必修1 分子与细胞 · 第6章 细胞的生命历程 · 第1节 细胞的增殖 · 探究·实践：观察根尖分生区组织细胞的有丝分裂 | 9 | [▶ 在线上课](https://lab.tongjiang.app/mitosis-step) | [HTML](courses/mitosis-step.html) |
 | [影响酶活性的条件](https://lab.tongjiang.app/c/enzyme-step/) | 必修1 分子与细胞 · 第5章 细胞的能量供应和利用 · 第1节 降低化学反应活化能的酶 · 探究·实践：影响酶活性的条件 | 8 | [▶ 在线上课](https://lab.tongjiang.app/enzyme-step) | [HTML](courses/enzyme-step.html) |
-| [使用高倍显微镜观察几种细胞](https://lab.tongjiang.app/c/microscope-step/) | 必修1 分子与细胞 · 第1章 走近细胞 · 第2节 细胞的多样性和统一性 · 探究·实践：使用高倍显微镜观察几种细胞 | 8 | [▶ 在线上课](https://lab.tongjiang.app/microscope-step) | [HTML](courses/microscope-step.html) |
-| [细胞呼吸：三阶段与能量账目](https://lab.tongjiang.app/c/respiration-step/) | 必修1 分子与细胞 · 第5章 细胞的能量供应和利用 · 第3节 细胞呼吸的原理和应用 | 9 | [▶ 在线上课](https://lab.tongjiang.app/respiration-step) | [HTML](courses/respiration-step.html) |
-| [建立减数分裂中染色体变化的模型](https://lab.tongjiang.app/c/meiosis-step/) | 必修2 遗传与进化 · 第2章 基因和染色体的关系 · 第1节 减数分裂和受精作用 · 建立减数分裂中染色体变化的模型 | 9 | [▶ 在线上课](https://lab.tongjiang.app/meiosis-step) | [HTML](courses/meiosis-step.html) |
-| [淀粉酶对淀粉和蔗糖的水解作用](https://lab.tongjiang.app/c/amylase-step/) | 必修1 分子与细胞 · 第5章 细胞的能量供应和利用 · 第1节 降低化学反应活化能的酶 · 探究·实践：淀粉酶对淀粉和蔗糖的水解作用 | 8 | [▶ 在线上课](https://lab.tongjiang.app/amylase-step) | [HTML](courses/amylase-step.html) |
 
-### 地理（16 门）
+### 地理（14 门）
 
 | 课程 | 教材位置（人教版 2019） | 步数 | 打开 | 源文件 |
 |---|---|---|---|---|
@@ -99,8 +91,6 @@
 | [大气热力环流](https://lab.tongjiang.app/c/thermal-step/) | 必修第一册 · 第二章 地球上的大气 · 第二节 大气受热过程和大气运动 · 热力环流 | 9 | [▶ 在线上课](https://lab.tongjiang.app/thermal-step) | [HTML](courses/thermal-step.html) |
 | [大气的水平运动——风](https://lab.tongjiang.app/c/wind-step/) | 必修第一册 · 第二章 地球上的大气 · 第二节 大气受热过程和大气运动 · 大气的水平运动——风 | 8 | [▶ 在线上课](https://lab.tongjiang.app/wind-step) | [HTML](courses/wind-step.html) |
 | [水循环的过程与地理意义](https://lab.tongjiang.app/c/water-cycle-step/) | 必修第一册 · 第三章 地球上的水 · 第一节 水循环 | 9 | [▶ 在线上课](https://lab.tongjiang.app/water-cycle-step) | [HTML](courses/water-cycle-step.html) |
-| [常见自然灾害 · 地质灾害](https://lab.tongjiang.app/c/geohazard-step/) | 必修第一册 · 第六章 自然灾害 · 第二节 地质灾害 | 10 | [▶ 在线上课](https://lab.tongjiang.app/geohazard-step) | [HTML](courses/geohazard-step.html) |
-| [常见天气系统：锋、气旋与反气旋](https://lab.tongjiang.app/c/front-step/) | 选择性必修1 自然地理基础 · 第三章 大气的运动 · 第一节 常见天气系统 | 7 | [▶ 在线上课](https://lab.tongjiang.app/front-step) | [HTML](courses/front-step.html) |
 | [气压带、风带与三圈环流](https://lab.tongjiang.app/c/circulation-step/) | 选择性必修1 自然地理基础 · 第三章 大气的运动 · 第二节 气压带和风带 | 7 | [▶ 在线上课](https://lab.tongjiang.app/circulation-step) | [HTML](courses/circulation-step.html) |
 
 ## 许可
