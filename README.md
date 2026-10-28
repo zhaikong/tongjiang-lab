@@ -6,7 +6,7 @@ English | [简体中文](README.zh-CN.md)
 
 Try them online: **https://lab.tongjiang.app**
 
-There are 64 lessons so far. Each one is a **single self-contained HTML file** of about 1 MB: double-click to open it, and it works offline, on a projector or on an interactive whiteboard. Every lesson is one 3D world with a live control console, a guiding question and a step-by-step path a teacher can follow from start to finish.
+There are 54 lessons so far. Each one is a **single self-contained HTML file** of about 1 MB: double-click to open it, and it works offline, on a projector or on an interactive whiteboard. Every lesson is one 3D world with a live control console, a guiding question and a step-by-step path a teacher can follow from start to finish.
 
 The lessons follow the Chinese national curriculum standards for senior high school and the People's Education Press (PEP) 2019 textbooks. The lesson interface is currently in Chinese; other languages are planned.
 
@@ -19,7 +19,7 @@ The lessons follow the Chinese national curriculum standards for senior high sch
 
 ## Lessons
 
-### Physics (12)
+### Physics (10)
 
 | Lesson | PEP 2019 textbook | Steps | Open | Source |
 |---|---|---|---|---|
@@ -33,10 +33,8 @@ The lessons follow the Chinese national curriculum standards for senior high sch
 | [Measuring EMF and Internal Resistance](https://lab.tongjiang.app/c/emf-step/) | Required Vol. 3, Ch. 12, Sec. 3 | 9 | [▶ Open lesson](https://lab.tongjiang.app/emf-step) | [HTML](courses/emf-step.html) |
 | [Magnetic Field of an Electric Current](https://lab.tongjiang.app/c/current-field-step/) | Required Vol. 3, Ch. 13, Sec. 1 | 9 | [▶ Open lesson](https://lab.tongjiang.app/current-field-step) | [HTML](courses/current-field-step.html) |
 | [Brownian Motion and Diffusion](https://lab.tongjiang.app/c/brownian-step/) | Elective Vol. 3, Ch. 1, Sec. 1 | 9 | [▶ Open lesson](https://lab.tongjiang.app/brownian-step) | [HTML](courses/brownian-step.html) |
-| [Alpha Particle Scattering and the Nuclear Model of the Atom](https://lab.tongjiang.app/c/alpha-scatter-step/) | Elective Vol. 3, Ch. 4, Sec. 3 | 9 | [▶ Open lesson](https://lab.tongjiang.app/alpha-scatter-step) | [HTML](courses/alpha-scatter-step.html) |
-| [Electromagnetic Induction and Lenz's Law](https://lab.tongjiang.app/c/induction-step/) | Required Vol. 3, Ch. 13, Sec. 3 | 9 | [▶ Open lesson](https://lab.tongjiang.app/induction-step) | [HTML](courses/induction-step.html) |
 
-### Chemistry (27)
+### Chemistry (25)
 
 | Lesson | PEP 2019 textbook | Steps | Open | Source |
 |---|---|---|---|---|
@@ -65,10 +63,8 @@ The lessons follow the Chinese national curriculum standards for senior high sch
 | [Oxygen-Absorption Corrosion and Designing a Hand Warmer](https://lab.tongjiang.app/c/corrosion-step/) | Elective Vol. 1, Ch. 4, Sec. 3 | 9 | [▶ Open lesson](https://lab.tongjiang.app/corrosion-step) | [HTML](courses/corrosion-step.html) |
 | [The Chlor-Alkali Industry](https://lab.tongjiang.app/c/chlor-alkali-step/) | Elective Vol. 1, Ch. 4, Sec. 2 | 8 | [▶ Open lesson](https://lab.tongjiang.app/chlor-alkali-step) | [HTML](courses/chlor-alkali-step.html) |
 | [Hou's Soda Process](https://lab.tongjiang.app/c/hou-soda-step/) | Required Vol. 1, Ch. 2, Sec. 1 | 8 | [▶ Open lesson](https://lab.tongjiang.app/hou-soda-step) | [HTML](courses/hou-soda-step.html) |
-| [Electroplating: Copper-Plating an Iron Sheet](https://lab.tongjiang.app/c/electroplate-step/) | Elective Vol. 1, Ch. 4 | 9 | [▶ Open lesson](https://lab.tongjiang.app/electroplate-step) | [HTML](courses/electroplate-step.html) |
-| [Fuel Cells](https://lab.tongjiang.app/c/fuel-cell-step/) | Elective Vol. 1, Ch. 4, Sec. 1 | 9 | [▶ Open lesson](https://lab.tongjiang.app/fuel-cell-step) | [HTML](courses/fuel-cell-step.html) |
 
-### Biology (9)
+### Biology (5)
 
 | Lesson | PEP 2019 textbook | Steps | Open | Source |
 |---|---|---|---|---|
@@ -77,12 +73,8 @@ The lessons follow the Chinese national curriculum standards for senior high sch
 | [Generation and Conduction of Nerve Impulses](https://lab.tongjiang.app/c/impulse-step/) | Elective Vol. 1, Ch. 2, Sec. 3 | 9 | [▶ Open lesson](https://lab.tongjiang.app/impulse-step) | [HTML](courses/impulse-step.html) |
 | [Observing Mitosis in Root-Tip Meristem Cells](https://lab.tongjiang.app/c/mitosis-step/) | Required Vol. 1, Ch. 6, Sec. 1 | 9 | [▶ Open lesson](https://lab.tongjiang.app/mitosis-step) | [HTML](courses/mitosis-step.html) |
 | [Conditions Affecting Enzyme Activity](https://lab.tongjiang.app/c/enzyme-step/) | Required Vol. 1, Ch. 5, Sec. 1 | 8 | [▶ Open lesson](https://lab.tongjiang.app/enzyme-step) | [HTML](courses/enzyme-step.html) |
-| [Using a High-Power Microscope to Observe Cells](https://lab.tongjiang.app/c/microscope-step/) | Required Vol. 1, Ch. 1, Sec. 2 | 8 | [▶ Open lesson](https://lab.tongjiang.app/microscope-step) | [HTML](courses/microscope-step.html) |
-| [Cellular Respiration: Three Stages and the Energy Budget](https://lab.tongjiang.app/c/respiration-step/) | Required Vol. 1, Ch. 5, Sec. 3 | 9 | [▶ Open lesson](https://lab.tongjiang.app/respiration-step) | [HTML](courses/respiration-step.html) |
-| [Modeling Chromosome Changes in Meiosis](https://lab.tongjiang.app/c/meiosis-step/) | Required Vol. 2, Ch. 2, Sec. 1 | 9 | [▶ Open lesson](https://lab.tongjiang.app/meiosis-step) | [HTML](courses/meiosis-step.html) |
-| [Amylase Hydrolysis of Starch and Sucrose](https://lab.tongjiang.app/c/amylase-step/) | Required Vol. 1, Ch. 5, Sec. 1 | 8 | [▶ Open lesson](https://lab.tongjiang.app/amylase-step) | [HTML](courses/amylase-step.html) |
 
-### Geography (16)
+### Geography (14)
 
 | Lesson | PEP 2019 textbook | Steps | Open | Source |
 |---|---|---|---|---|
@@ -99,8 +91,6 @@ The lessons follow the Chinese national curriculum standards for senior high sch
 | [Thermal Circulation](https://lab.tongjiang.app/c/thermal-step/) | Required Vol. 1, Ch. 2, Sec. 2 | 9 | [▶ Open lesson](https://lab.tongjiang.app/thermal-step) | [HTML](courses/thermal-step.html) |
 | [Horizontal Motion of the Atmosphere: Wind](https://lab.tongjiang.app/c/wind-step/) | Required Vol. 1, Ch. 2, Sec. 2 | 8 | [▶ Open lesson](https://lab.tongjiang.app/wind-step) | [HTML](courses/wind-step.html) |
 | [The Water Cycle and Its Geographic Significance](https://lab.tongjiang.app/c/water-cycle-step/) | Required Vol. 1, Ch. 3, Sec. 1 | 9 | [▶ Open lesson](https://lab.tongjiang.app/water-cycle-step) | [HTML](courses/water-cycle-step.html) |
-| [Natural Hazards: Geological Hazards](https://lab.tongjiang.app/c/geohazard-step/) | Required Vol. 1, Ch. 6, Sec. 2 | 10 | [▶ Open lesson](https://lab.tongjiang.app/geohazard-step) | [HTML](courses/geohazard-step.html) |
-| [Weather Systems: Fronts, Cyclones and Anticyclones](https://lab.tongjiang.app/c/front-step/) | Elective Vol. 1, Ch. 3, Sec. 1 | 7 | [▶ Open lesson](https://lab.tongjiang.app/front-step) | [HTML](courses/front-step.html) |
 | [Pressure Belts, Wind Belts and the Three-Cell Circulation](https://lab.tongjiang.app/c/circulation-step/) | Elective Vol. 1, Ch. 3, Sec. 2 | 7 | [▶ Open lesson](https://lab.tongjiang.app/circulation-step) | [HTML](courses/circulation-step.html) |
 
 ## License
